@@ -1,0 +1,692 @@
+# View the results
+print(Albumin_agegroups)
+Albumin_agegroups_summarysd
+Albumin_agegroups_range
+
+# View the results
+print(Albumin_race_summary)
+Albumin_race_summarysd
+Albumin_race_range
+
+# View the results
+print(Albumin_BMI_Groups_summary)
+Albumin_BMI_Groups_summarysd
+Albumin_BMI_Groups_range
+
+# View the results
+print(Albumin_sex_summary)
+Albumin_sex_summarysd
+Albumin_sex_range
+
+# View the results
+print(Albumin_Education_summary)
+Albumin_Education_summarysd
+Albumin_Education_range
+
+# View the results
+print(Albumin_familyincomeannual_summary)
+Albumin_familyincomeannual_summarysd
+Albumin_familyincomeannual_range
+
+# View the results
+print(Albumin_Alcohol_summary)
+Albumin_Alcohol_summarysd
+Albumin_Alcohol_range
+
+# View the results
+print(Albumin_SmokingStatus_summary)
+Albumin_SmokingStatus_summarysd
+Albumin_SmokingStatus_range
+
+# View the results
+print(Albumin_Diabetes_summary)
+Albumin_Diabetes_summarysd
+Albumin_Diabetes_range
+# View the results
+print(Albumin_Hypertension_summary)
+Albumin_Hypertension_summarysd
+Albumin_Hypertension_range
+
+#Print
+Albumin_Dyslipidemia_summary
+Albumin_Dyslipidemia_summarysd
+Albumin_Dyslipidemia_range
+
+#Print
+Albumin_HeartDisease_summary
+Albumin_HeartDisease_summarysd
+Albumin_HeartDisease_range
+
+#Print
+Albumin_Cancer_summary
+Albumin_Cancer_summarysd
+Albumin_Cancer_range
+
+
+#Print
+Albumin_Any_Pulmonary_Disease_summary
+Albumin_Any_Pulmonary_Disease_summarysd
+Albumin_Any_Pulmonary_Disease_range
+
+
+# Print
+Albumin_VIGOROUS_ACTIVITY_summary
+Albumin_VIGOROUS_ACTIVITY_summarysd
+Albumin_VIGOROUS_ACTIVITY_range
+
+
+
+# View the results
+print(Creatinine_agegroups_summary)
+Creatinine_agegroups_summarysd
+Creatinine_agegroups_range
+
+# View the results
+print(Creatinine_race_summary)
+Creatinine_race_summarysd
+Creatinine_race_range
+
+# View the results
+print(Creatinine_BMI_Groups_summary)
+Creatinine_BMI_Groups_summarysd
+Creatinine_BMI_Groups_range
+
+# View the results
+print(Creatinine_sex_summary)
+Creatinine_sex_summarysd
+Creatinine_sex_range
+
+# View the results
+print(Creatinine_Education_summary)
+Creatinine_Education_summarysd
+Creatinine_Education_range
+
+# View the results
+print(Creatinine_familyincomeannual_summary)
+Creatinine_familyincomeannual_summarysd
+Creatinine_familyincomeannual_range
+
+# View the results
+print(Creatinine_Alcohol_summary)
+Creatinine_Alcohol_summarysd
+Creatinine_Alcohol_range
+
+# View the results
+print(Creatinine_SmokingStatus_summary)
+Creatinine_SmokingStatus_summarysd
+Creatinine_SmokingStatus_range
+
+# View the results
+print(Creatinine_Diabetes_summary)
+Creatinine_Diabetes_summarysd
+Creatinine_Diabetes_range
+# View the results
+print(Creatinine_Hypertension_summary)
+Creatinine_Hypertension_summarysd
+Creatinine_Hypertension_range
+
+#Print
+Creatinine_Dyslipidemia_summary
+Creatinine_Dyslipidemia_summarysd
+Creatinine_Dyslipidemia_range
+
+#Print
+Creatinine_HeartDisease_summary
+Creatinine_HeartDisease_summarysd
+Creatinine_HeartDisease_range
+
+#Print
+Creatinine_Cancer_summary
+Creatinine_Cancer_summarysd
+Creatinine_Cancer_range
+
+
+#Print
+Creatinine_Any_Pulmonary_Disease_summary
+Creatinine_Any_Pulmonary_Disease_summarysd
+Creatinine_Any_Pulmonary_Disease_range
+
+
+# Print
+Creatinine_VIGOROUS_ACTIVITY_summary
+Creatinine_VIGOROUS_ACTIVITY_summarysd
+Creatinine_VIGOROUS_ACTIVITY_range
+
+
+# View the results
+print(Glucose_agegroups_summary)
+Glucose_agegroups_summarysd
+Glucose_agegroups_range
+
+# View the results
+print(Glucose_race_summary)
+Glucose_race_summarysd
+Glucose_race_range
+
+# View the results
+print(Glucose_BMI_Groups_summary)
+Glucose_BMI_Groups_summarysd
+Glucose_BMI_Groups_range
+
+# View the results
+print(Glucose_sex_summary)
+Glucose_sex_summarysd
+Glucose_sex_range
+
+# View the results
+print(Glucose_Education_summary)
+Glucose_Education_summarysd
+Glucose_Education_range
+
+# View the results
+print(Glucose_familyincomeannual_summary)
+Glucose_familyincomeannual_summarysd
+Glucose_familyincomeannual_range
+
+# View the results
+print(Glucose_Alcohol_summary)
+Glucose_Alcohol_summarysd
+Glucose_Alcohol_range
+
+# View the results
+print(Glucose_SmokingStatus_summary)
+Glucose_SmokingStatus_summarysd
+Glucose_SmokingStatus_range
+
+# View the results
+print(Glucose_Diabetes_summary)
+Glucose_Diabetes_summarysd
+Glucose_Diabetes_range
+# View the results
+print(Glucose_Hypertension_summary)
+Glucose_Hypertension_summarysd
+Glucose_Hypertension_range
+
+#Print
+Glucose_Dyslipidemia_summary
+Glucose_Dyslipidemia_summarysd
+Glucose_Dyslipidemia_range
+
+#Print
+Glucose_HeartDisease_summary
+Glucose_HeartDisease_summarysd
+Glucose_HeartDisease_range
+
+#Print
+Glucose_Cancer_summary
+Glucose_Cancer_summarysd
+Glucose_Cancer_range
+
+
+#Print
+Glucose_Any_Pulmonary_Disease_summary
+Glucose_Any_Pulmonary_Disease_summarysd
+Glucose_Any_Pulmonary_Disease_range
+
+
+# Print
+Glucose_VIGOROUS_ACTIVITY_summary
+Glucose_VIGOROUS_ACTIVITY_summarysd
+Glucose_VIGOROUS_ACTIVITY_range
+
+
+
+
+# View the results
+print(CRP_agegroups_summary)
+CRP_agegroups_summarysd
+CRP_agegroups_range
+
+# View the results
+print(CRP_race_summary)
+CRP_race_summarysd
+CRP_race_range
+
+# View the results
+print(CRP_BMI_Groups_summary)
+CRP_BMI_Groups_summarysd
+CRP_BMI_Groups_range
+
+# View the results
+print(CRP_sex_summary)
+CRP_sex_summarysd
+CRP_sex_range
+
+# View the results
+print(CRP_Education_summary)
+CRP_Education_summarysd
+CRP_Education_range
+
+# View the results
+print(CRP_familyincomeannual_summary)
+CRP_familyincomeannual_summarysd
+CRP_familyincomeannual_range
+
+# View the results
+print(CRP_Alcohol_summary)
+CRP_Alcohol_summarysd
+CRP_Alcohol_range
+
+# View the results
+print(CRP_SmokingStatus_summary)
+CRP_SmokingStatus_summarysd
+CRP_SmokingStatus_range
+
+# View the results
+print(CRP_Diabetes_summary)
+CRP_Diabetes_summarysd
+CRP_Diabetes_range
+# View the results
+print(CRP_Hypertension_summary)
+CRP_Hypertension_summarysd
+CRP_Hypertension_range
+
+#Print
+CRP_Dyslipidemia_summary
+CRP_Dyslipidemia_summarysd
+CRP_Dyslipidemia_range
+
+#Print
+CRP_HeartDisease_summary
+CRP_HeartDisease_summarysd
+CRP_HeartDisease_range
+
+#Print
+CRP_Cancer_summary
+CRP_Cancer_summarysd
+CRP_Cancer_range
+
+
+#Print
+CRP_Any_Pulmonary_Disease_summary
+CRP_Any_Pulmonary_Disease_summarysd
+CRP_Any_Pulmonary_Disease_range
+
+
+# Print
+CRP_VIGOROUS_ACTIVITY_summary
+CRP_VIGOROUS_ACTIVITY_summarysd
+CRP_VIGOROUS_ACTIVITY_range
+
+
+
+
+# View the results
+print(Lymphocyte_agegroups_summary)
+Lymphocyte_agegroups_summarysd
+Lymphocyte_agegroups_range
+
+# View the results
+print(Lymphocyte_race_summary)
+Lymphocyte_race_summarysd
+Lymphocyte_race_range
+
+# View the results
+print(Lymphocyte_BMI_Groups_summary)
+Lymphocyte_BMI_Groups_summarysd
+Lymphocyte_BMI_Groups_range
+
+# View the results
+print(Lymphocyte_sex_summary)
+Lymphocyte_sex_summarysd
+Lymphocyte_sex_range
+
+# View the results
+print(Lymphocyte_Education_summary)
+Lymphocyte_Education_summarysd
+Lymphocyte_Education_range
+
+# View the results
+print(Lymphocyte_familyincomeannual_summary)
+Lymphocyte_familyincomeannual_summarysd
+Lymphocyte_familyincomeannual_range
+
+# View the results
+print(Lymphocyte_Alcohol_summary)
+Lymphocyte_Alcohol_summarysd
+Lymphocyte_Alcohol_range
+
+# View the results
+print(Lymphocyte_SmokingStatus_summary)
+Lymphocyte_SmokingStatus_summarysd
+Lymphocyte_SmokingStatus_range
+
+# View the results
+print(Lymphocyte_Diabetes_summary)
+Lymphocyte_Diabetes_summarysd
+Lymphocyte_Diabetes_range
+# View the results
+print(Lymphocyte_Hypertension_summary)
+Lymphocyte_Hypertension_summarysd
+Lymphocyte_Hypertension_range
+
+#Print
+Lymphocyte_Dyslipidemia_summary
+Lymphocyte_Dyslipidemia_summarysd
+Lymphocyte_Dyslipidemia_range
+
+#Print
+Lymphocyte_HeartDisease_summary
+Lymphocyte_HeartDisease_summarysd
+Lymphocyte_HeartDisease_range
+
+#Print
+Lymphocyte_Cancer_summary
+Lymphocyte_Cancer_summarysd
+Lymphocyte_Cancer_range
+
+
+#Print
+Lymphocyte_Any_Pulmonary_Disease_summary
+Lymphocyte_Any_Pulmonary_Disease_summarysd
+Lymphocyte_Any_Pulmonary_Disease_range
+
+
+# Print
+Lymphocyte_VIGOROUS_ACTIVITY_summary
+Lymphocyte_VIGOROUS_ACTIVITY_summarysd
+Lymphocyte_VIGOROUS_ACTIVITY_range
+
+
+
+
+# View the results
+print(Mean_Cell_Volume_agegroups_summary)
+Mean_Cell_Volume_agegroups_summarysd
+Mean_Cell_Volume_agegroups_range
+
+# View the results
+print(Mean_Cell_Volume_race_summary)
+Mean_Cell_Volume_race_summarysd
+Mean_Cell_Volume_race_range
+
+# View the results
+print(Mean_Cell_Volume_BMI_Groups_summary)
+Mean_Cell_Volume_BMI_Groups_summarysd
+Mean_Cell_Volume_BMI_Groups_range
+
+# View the results
+print(Mean_Cell_Volume_sex_summary)
+Mean_Cell_Volume_sex_summarysd
+Mean_Cell_Volume_sex_range
+
+# View the results
+print(Mean_Cell_Volume_Education_summary)
+Mean_Cell_Volume_Education_summarysd
+Mean_Cell_Volume_Education_range
+
+# View the results
+print(Mean_Cell_Volume_familyincomeannual_summary)
+Mean_Cell_Volume_familyincomeannual_summarysd
+Mean_Cell_Volume_familyincomeannual_range
+
+# View the results
+print(Mean_Cell_Volume_Alcohol_summary)
+Mean_Cell_Volume_Alcohol_summarysd
+Mean_Cell_Volume_Alcohol_range
+
+# View the results
+print(Mean_Cell_Volume_SmokingStatus_summary)
+Mean_Cell_Volume_SmokingStatus_summarysd
+Mean_Cell_Volume_SmokingStatus_range
+
+# View the results
+print(Mean_Cell_Volume_Diabetes_summary)
+Mean_Cell_Volume_Diabetes_summarysd
+Mean_Cell_Volume_Diabetes_range
+# View the results
+print(Mean_Cell_Volume_Hypertension_summary)
+Mean_Cell_Volume_Hypertension_summarysd
+Mean_Cell_Volume_Hypertension_range
+
+#Print
+Mean_Cell_Volume_Dyslipidemia_summary
+Mean_Cell_Volume_Dyslipidemia_summarysd
+Mean_Cell_Volume_Dyslipidemia_range
+
+#Print
+Mean_Cell_Volume_HeartDisease_summary
+Mean_Cell_Volume_HeartDisease_summarysd
+Mean_Cell_Volume_HeartDisease_range
+
+#Print
+Mean_Cell_Volume_Cancer_summary
+Mean_Cell_Volume_Cancer_summarysd
+Mean_Cell_Volume_Cancer_range
+
+
+#Print
+Mean_Cell_Volume_Any_Pulmonary_Disease_summary
+Mean_Cell_Volume_Any_Pulmonary_Disease_summarysd
+Mean_Cell_Volume_Any_Pulmonary_Disease_range
+
+
+# Print
+Mean_Cell_Volume_VIGOROUS_ACTIVITY_summary
+Mean_Cell_Volume_VIGOROUS_ACTIVITY_summarysd
+Mean_Cell_Volume_VIGOROUS_ACTIVITY_range
+
+
+
+# View the results
+print(Rec_Cell_Dist_Width_agegroups_summary)
+Rec_Cell_Dist_Width_agegroups_summarysd
+Rec_Cell_Dist_Width_agegroups_range
+
+# View the results
+print(Rec_Cell_Dist_Width_race_summary)
+Rec_Cell_Dist_Width_race_summarysd
+Rec_Cell_Dist_Width_race_range
+
+# View the results
+print(Rec_Cell_Dist_Width_BMI_Groups_summary)
+Rec_Cell_Dist_Width_BMI_Groups_summarysd
+Rec_Cell_Dist_Width_BMI_Groups_range
+
+# View the results
+print(Rec_Cell_Dist_Width_sex_summary)
+Rec_Cell_Dist_Width_sex_summarysd
+Rec_Cell_Dist_Width_sex_range
+
+# View the results
+print(Rec_Cell_Dist_Width_Education_summary)
+Rec_Cell_Dist_Width_Education_summarysd
+Rec_Cell_Dist_Width_Education_range
+
+# View the results
+print(Rec_Cell_Dist_Width_familyincomeannual_summary)
+Rec_Cell_Dist_Width_familyincomeannual_summarysd
+Rec_Cell_Dist_Width_familyincomeannual_range
+
+# View the results
+print(Rec_Cell_Dist_Width_Alcohol_summary)
+Rec_Cell_Dist_Width_Alcohol_summarysd
+Rec_Cell_Dist_Width_Alcohol_range
+
+# View the results
+print(Rec_Cell_Dist_Width_SmokingStatus_summary)
+Rec_Cell_Dist_Width_SmokingStatus_summarysd
+Rec_Cell_Dist_Width_SmokingStatus_range
+
+# View the results
+print(Rec_Cell_Dist_Width_Diabetes_summary)
+Rec_Cell_Dist_Width_Diabetes_summarysd
+Rec_Cell_Dist_Width_Diabetes_range
+# View the results
+print(Rec_Cell_Dist_Width_Hypertension_summary)
+Rec_Cell_Dist_Width_Hypertension_summarysd
+Rec_Cell_Dist_Width_Hypertension_range
+
+#Print
+Rec_Cell_Dist_Width_Dyslipidemia_summary
+Rec_Cell_Dist_Width_Dyslipidemia_summarysd
+Rec_Cell_Dist_Width_Dyslipidemia_range
+
+#Print
+Rec_Cell_Dist_Width_HeartDisease_summary
+Rec_Cell_Dist_Width_HeartDisease_summarysd
+Rec_Cell_Dist_Width_HeartDisease_range
+
+#Print
+Rec_Cell_Dist_Width_Cancer_summary
+Rec_Cell_Dist_Width_Cancer_summarysd
+Rec_Cell_Dist_Width_Cancer_range
+
+
+#Print
+Rec_Cell_Dist_Width_Any_Pulmonary_Disease_summary
+Rec_Cell_Dist_Width_Any_Pulmonary_Disease_summarysd
+Rec_Cell_Dist_Width_Any_Pulmonary_Disease_range
+
+
+# Print
+Rec_Cell_Dist_Width_VIGOROUS_ACTIVITY_summary
+Rec_Cell_Dist_Width_VIGOROUS_ACTIVITY_summarysd
+Rec_Cell_Dist_Width_VIGOROUS_ACTIVITY_range
+
+
+
+# View the results
+print(WBC_agegroups_summary)
+WBC_agegroups_summarysd
+WBC_agegroups_range
+
+# View the results
+print(WBC_race_summary)
+WBC_race_summarysd
+WBC_race_range
+
+# View the results
+print(WBC_BMI_Groups_summary)
+WBC_BMI_Groups_summarysd
+WBC_BMI_Groups_range
+
+# View the results
+print(WBC_sex_summary)
+WBC_sex_summarysd
+WBC_sex_range
+
+# View the results
+print(WBC_Education_summary)
+WBC_Education_summarysd
+WBC_Education_range
+
+# View the results
+print(WBC_familyincomeannual_summary)
+WBC_familyincomeannual_summarysd
+WBC_familyincomeannual_range
+
+# View the results
+print(WBC_Alcohol_summary)
+WBC_Alcohol_summarysd
+WBC_Alcohol_range
+
+# View the results
+print(WBC_SmokingStatus_summary)
+WBC_SmokingStatus_summarysd
+WBC_SmokingStatus_range
+
+# View the results
+print(WBC_Diabetes_summary)
+WBC_Diabetes_summarysd
+WBC_Diabetes_range
+# View the results
+print(WBC_Hypertension_summary)
+WBC_Hypertension_summarysd
+WBC_Hypertension_range
+
+#Print
+WBC_Dyslipidemia_summary
+WBC_Dyslipidemia_summarysd
+WBC_Dyslipidemia_range
+
+#Print
+WBC_HeartDisease_summary
+WBC_HeartDisease_summarysd
+WBC_HeartDisease_range
+
+#Print
+WBC_Cancer_summary
+WBC_Cancer_summarysd
+WBC_Cancer_range
+
+
+#Print
+WBC_Any_Pulmonary_Disease_summary
+WBC_Any_Pulmonary_Disease_summarysd
+WBC_Any_Pulmonary_Disease_range
+
+
+# Print
+WBC_VIGOROUS_ACTIVITY_summary
+WBC_VIGOROUS_ACTIVITY_summarysd
+WBC_VIGOROUS_ACTIVITY_range
+
+
+
+
+
+combined_data_sd_alkphos <- rbindlist(list(
+  Alkaline_Phosphatase_agegroups_summarysd
+  ,Alkaline_Phosphatase_race_summarysd
+  ,Alkaline_Phosphatase_BMI_Groups_summarysd
+  ,Alkaline_Phosphatase_sex_summarysd
+ , Alkaline_Phosphatase_Education_summarysd
+,  Alkaline_Phosphatase_familyincomeannual_summarysd
+,  Alkaline_Phosphatase_Alcohol_summarysd
+,  Alkaline_Phosphatase_SmokingStatus_summarysd
+,  Alkaline_Phosphatase_Diabetes_summarysd
+,  Alkaline_Phosphatase_Hypertension_summarysd
+,  Alkaline_Phosphatase_Dyslipidemia_summarysd
+,  Alkaline_Phosphatase_HeartDisease_summarysd
+,  Alkaline_Phosphatase_Cancer_summarysd
+,  Alkaline_Phosphatase_Any_Pulmonary_Disease_summarysd
+,  Alkaline_Phosphatase_VIGOROUS_ACTIVITY_summarysd
+  
+),fill=TRUE)
+write.csv(combined_data_sd_alkphos,"combined_data_sd_alkphos.csv")
+
+
+combined_data_summary_alkphos <- rbindlist(list(
+  Alkaline_Phosphatase_agegroups
+  ,Alkaline_Phosphatase_race
+  ,Alkaline_Phosphatase_BMI_Groups
+  ,Alkaline_Phosphatase_sex
+  , Alkaline_Phosphatase_Education
+  ,  Alkaline_Phosphatase_familyincomeannual
+  ,  Alkaline_Phosphatase_Alcohol
+  ,  Alkaline_Phosphatase_SmokingStatus
+  ,  Alkaline_Phosphatase_Diabetes
+  ,  Alkaline_Phosphatase_Hypertension
+  ,  Alkaline_Phosphatase_Dyslipidemia
+  ,  Alkaline_Phosphatase_HeartDisease
+  ,  Alkaline_Phosphatase_Cancer
+  ,  Alkaline_Phosphatase_Any_Pulmonary_Disease
+  ,  Alkaline_Phosphatase_VIGOROUS_ACTIVITY
+  
+),fill=TRUE)
+write.csv(combined_data_summary_alkphos,"combined_data_summary_alkphos.csv")
+
+
+
+
+
+combined_data_range_alkphos <- rbindlist(list(
+  Alkaline_Phosphatase_agegroups_range
+  ,Alkaline_Phosphatase_race_range
+  ,Alkaline_Phosphatase_BMI_Groups_range
+  ,Alkaline_Phosphatase_sex_range
+  , Alkaline_Phosphatase_Education_range
+  ,  Alkaline_Phosphatase_familyincomeannual_range
+  ,  Alkaline_Phosphatase_Alcohol_range
+  ,  Alkaline_Phosphatase_SmokingStatus_range
+  ,  Alkaline_Phosphatase_Diabetes_range
+  ,  Alkaline_Phosphatase_Hypertension_range
+  ,  Alkaline_Phosphatase_Dyslipidemia_range
+  ,  Alkaline_Phosphatase_HeartDisease_range
+  ,  Alkaline_Phosphatase_Cancer_range
+  ,  Alkaline_Phosphatase_Any_Pulmonary_Disease_range
+  ,  Alkaline_Phosphatase_VIGOROUS_ACTIVITY_range
+
+),fill=TRUE)
+write.csv(combined_data_range_alkphos,"combined_data_range_alkphos.csv")
